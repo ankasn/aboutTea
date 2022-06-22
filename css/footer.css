@@ -1,0 +1,15 @@
+
+ .footer {
+    width: 300px;
+    background-color: rgb(210, 248, 206);
+    border-color:rgb(9, 66, 9);
+    border-style: dotted;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;	
+    box-shadow: 12px -6px 22px 8px #667a5c;
+ }
+ 

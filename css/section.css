@@ -1,0 +1,19 @@
+.section {
+    border-style: dotted;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+ }
+ 
+ .section__header {
+    font-weight: 700;
+    color: rgb(35, 121, 52);
+    text-align: center;
+    margin: 0;
+ }
+ 
+ .section__listOrdered {
+    list-style-type: lower-alpha;
+    text-align: justify;
+    padding-left: 15px;
+ }

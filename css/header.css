@@ -19,6 +19,9 @@
     position: relative;	
     box-shadow: 12px -6px 22px 8px #667a5c;
     overflow-x: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
  }
  
  .header__link {

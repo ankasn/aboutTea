@@ -16,7 +16,7 @@
     padding: 10px;
     margin: 0 20% auto;
     text-align: center;
-    position: relative;	
+    position: relative;
     box-shadow: 12px -6px 22px 8px #667a5c;
     overflow-x: auto;
     display: flex;
@@ -27,8 +27,10 @@
  .header__link {
     color: rgb(5, 83, 5);
  }
+
  .header__link:focus {
     outline: 1px, solid, currentColor;
+
  }
  .header__link:hover {
     color: rgb(84, 160, 8);
